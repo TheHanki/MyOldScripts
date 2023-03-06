@@ -90,7 +90,7 @@ Accept.MouseButton1Down:connect(function()
 			["Skywars"] = 855499080,
 			["KickOff"] = 318978013,
 			["Fnaf"] = 3770659466,
-			["Skywars-v1.1"] = 283721918,
+			["Skywars-v1.1"] = 283721918
 		}
 
 		local Placeid = tonumber(game.PlaceId)
